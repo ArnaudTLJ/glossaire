@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family:Tahoma;
+}
+
+#logo_accueil {
+	text-align:center;
+}
+
+h1 {
+	color:#555555;
+	text-align:center;
+}
+
+table, tr, th, td {
+	border: solid 1px;
+}
+
+a {
+	text-decoration:none;
+	font-weight:bold;
+	color:#990099;
+}
+a:hover {
+	color:#DD0033;
+}
+
+.choix {
+	float:left;
+	margin:20px;
+	padding:20px;
+}
+.choix a {
+	text-decoration:none;
+	font-weight:bold;
+	color:#000000;
+}
+
+.clear_both {
+	clear:both;
+}
+
+#copyright {
+	margin:10px;
+	padding:20px;
+	font-size:12px;
+}
+#haut_page {
+	float:right;
+}
